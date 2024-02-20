@@ -69,8 +69,7 @@ For those interested in delving deeper into the Dirac Equation and its implicati
 
 ## Contributing
 
-Contributions to this section are welcome, including improvements to existing scripts, additional examples, or educational content related to the Dirac Equation. Please read the CONTRIBUTING.md file for guidelines on how to contribute.
+Contributions to this section are welcome, including improvements to existing scripts, additional examples, or educational content related to the Dirac Equation.
 
 ## License
-
-Specify the license under which the content is released, e.g., MIT, GPL, Apache, etc.
+MIT License usage
